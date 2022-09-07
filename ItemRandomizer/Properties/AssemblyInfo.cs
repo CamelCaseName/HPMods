@@ -40,4 +40,3 @@ using MelonLoader;
 //To do that, go to the Properties directory, and add these three lines to AssemblyInfo.cs
 [assembly: MelonInfo(typeof(ItemRandomizer.ItemRandomizer), "ItemRandomizer", "1.0.1", "undefined", "https://github.com/0x78f1935/HPMods")]
 [assembly: MelonGame("Eek", "House Party")]
-[assembly: VerifyLoaderVersion(0, 5, 0, true)]
